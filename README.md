@@ -1,5 +1,5 @@
 # Sparks_Intern
-I completed the first task of the internship, which was the profile building part which reallyhelped me to explore myriad people with different skills and also it helped me to connect with more like minded persons around.
+I completed the first task of the internship, which was the profile building part which really helped me to explore myriad people with different skills and also it helped me to connect with more like minded persons around me.
 
 Now this is the second task, the task of our domain!
 Application of supervised machine learning.
